@@ -8,7 +8,7 @@ A product to extend the knowledge of any existing company chatbot by adding crow
 - [Landing page](https://heckej.github.io/P-O-Entrepreneurship-Team-A-ClusterConnector/)
 - [GitHub repo](https://github.com/heckej/P-O-Entrepreneurship-Team-A-code)
 
-
+* * *
 ~ Joren Van Hecke  
 [@heckej](https://github.com/heckej/)  
 [LinkedIn](https://www.linkedin.com/in/jorenvanhecke/)
