@@ -29,7 +29,7 @@ Raspberry Pi.
 * * *
 
 ## Line following car
-<video src="po2_linefollower.mp4" cover="po2_linefollower.jpg" height="240"></video>
+<video src="po2_linefollower.mp4" controls="true" poster="po2_linefollower.jpg" height="240"></video>
 ## In Short
 In my first of year as an undergraduate we had a team project in which we had
 to build a self driving, line following car. We used a Raspberry Pi, an infrared
