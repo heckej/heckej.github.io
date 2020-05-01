@@ -10,10 +10,10 @@ A product to extend the knowledge of any existing company chatbot by adding crow
 
 ## IVC Cage monitoring
 <p float="left">
-  <img src="ivc_app/webapp_1.png" width="100" />
-  <img src="ivc_app/webapp_2.png" width="100" />
-  <img src="ivc_app/webapp_3.png" width="100" />
-  <img src="ivc_app/webapp_4.png" width="100" />
+  <a href="ivc_app/webapp_1.png"><img src="ivc_app/webapp_1.png" width="200" /></a>
+  <a href="ivc_app/webapp_2.png"><img src="ivc_app/webapp_2.png" width="200" /></a>
+  <a href="ivc_app/webapp_3.png"><img src="ivc_app/webapp_3.png" width="200" /></a>
+  <a href="ivc_app/webapp_4.png"><img src="ivc_app/webapp_4.png" width="200" /></a>
 </p>
 ### In short
 For a team project in my second year as an undergraduate, we had to find a solution
@@ -25,7 +25,7 @@ Raspberry Pi.
 - [GitHub code repository](https://github.com/heckej/IVC-Monitoring)
 
 ## Line following car
-[![](po2_linefollower.jpg)](po2_linefollower.mp4)
+<a href="po2_linefollower.mp4"><img src="po2_linefollower.jpg" height="240" /></a>
 ## In Short
 In my first of year as an undergraduate we had a team project in which we had
 to build a self driving, line following car. We used a Raspberry Pi, an infrared
