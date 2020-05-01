@@ -25,7 +25,7 @@ Raspberry Pi.
 - [GitHub code repository](https://github.com/heckej/IVC-Monitoring)
 
 ## Line following car
-<a href="po2_linefollower.mp4"><img src="po2_linefollower.jpg" height="240" /></a>
+<video src="po2_linefollower.mp4" cover="po2_linefollower.jpg" height="240"></video>
 ## In Short
 In my first of year as an undergraduate we had a team project in which we had
 to build a self driving, line following car. We used a Raspberry Pi, an infrared
