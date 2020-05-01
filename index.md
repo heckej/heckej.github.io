@@ -8,6 +8,8 @@ A product to extend the knowledge of any existing company chatbot by adding crow
 - [Landing page](https://heckej.github.io/P-O-Entrepreneurship-Team-A-ClusterConnector/)
 - [GitHub repository](https://github.com/heckej/P-O-Entrepreneurship-Team-A-code)
 
+* * *
+
 ## IVC Cage monitoring
 <p float="left">
   <a href="ivc_app/webapp_1.png"><img src="ivc_app/webapp_1.png" width="200" /></a>
@@ -23,6 +25,8 @@ Arduino Nano which in turn could communicate with a Flask web app running on a
 Raspberry Pi.
 ### Link
 - [GitHub code repository](https://github.com/heckej/IVC-Monitoring)
+
+* * *
 
 ## Line following car
 <video src="po2_linefollower.mp4" cover="po2_linefollower.jpg" height="240"></video>
