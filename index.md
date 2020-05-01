@@ -49,5 +49,4 @@ controls to drive the car using our computer keyboard arrows. Just plain fun!
 * * *
 ~ Joren Van Hecke  
 [@heckej](https://github.com/heckej/)  
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="jorenvanhecke"><a class="LI-simple-link" href='https://be.linkedin.com/in/jorenvanhecke/en?trk=profile-badge'>Joren Van Hecke</a></div>
+[LinkedIn](https://www.linkedin.com/in/jorenvanhecke/)
