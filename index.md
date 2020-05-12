@@ -1,6 +1,9 @@
+<script src="https://kit.fontawesome.com/9876e57033.js" crossorigin="anonymous"></script>
 # My portfolio
 Hello! My name is Joren Van Hecke and I am a computer engineering student. Here I present some of the projects I've worked on.
-## Cluster
+If you're interested in my resume, you can find it [here](cv_Van_Hecke_Joren_20200512.pdf) (in Dutch).
+
+[## Cluster](https://heckej.github.io/P-O-Entrepreneurship-Team-A-ClusterConnector/)
 <img src="cluster.png" height="100px" style="border-radius: 50%;" />
 ### In short
 A product to extend the knowledge of any existing company chatbot by adding crowdsourcing capabilities using NLP tools. Cluster consists of a server, an NLP module, a moderator module and API libraries for communication between NLP, chatbot and server. I mainly worked on those libraries, `cluster-connector` for the NLP in Python and `ClusterClient` for a chatbot written in .NET (Core). Both make use of websockets and some asynchronous programming, which was entirely new to me. I also contributed to the server and the chatbot that was built as a proof of concept. This team project was the subject of my bachelor's thesis and was commissioned by the company Realdolmen.
@@ -10,7 +13,7 @@ A product to extend the knowledge of any existing company chatbot by adding crow
 
 * * *
 
-## IVC Cage monitoring
+[## IVC Cage monitoring](https://github.com/heckej/IVC-Monitoring)
 <p float="left">
   <a href="ivc_app/webapp_1.png"><img src="ivc_app/webapp_1.png" width="200" /></a>
   <a href="ivc_app/webapp_2.png"><img src="ivc_app/webapp_2.png" width="200" /></a>
@@ -48,5 +51,5 @@ controls to drive the car using our computer keyboard arrows. Just plain fun!
 
 * * *
 ~ Joren Van Hecke  
-[@heckej](https://github.com/heckej/)  
-[LinkedIn](https://www.linkedin.com/in/jorenvanhecke/)
+<i class="fab fa-github"></i>[heckej](https://github.com/heckej/)  
+<i class="fab fa-linkedin"></i>[LinkedIn](https://www.linkedin.com/in/jorenvanhecke/)
