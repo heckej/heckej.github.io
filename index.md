@@ -5,8 +5,9 @@ If you're interested in my resume, you can find it [here](Van_Hecke_Joren_resume
 
 ## [MusicMaster](https://github.com/heckej/Music-master)
 ### In short
-> >> Music Master, play me some music.
-> << The next song is Let It Be by The Beatles.
+> `>> Music Master, play me some music.`
+
+> `<< The next song is Let It Be by The Beatles.`
 
 A chatbot DJ that serves your personal music on command, which I made as a personal summer project. It can give additional information about the song that is playing. Speech recognition and TTS in Python (both in English and Dutch), chatbot built using Microsoft Bot Framework in .NET Core, LUIS.
 ### Link
