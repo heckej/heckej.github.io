@@ -2,7 +2,7 @@
 # My portfolio
 Hello! My name is Joren Van Hecke and I am a computer engineering student. Here I present some of the projects I've worked on.
 If you're interested in my resume, you can find it [here](Van_Hecke_Joren_resume_20200521.pdf). Some changes are needed, but I am currently too busy to update it right now.
-Anyone who wants to send me an encrypted email using GPG/PGP: you can download my public key [here](static/VanHeckeJoren_public.asc).
+Anyone who wants to send me an encrypted email using GPG/PGP: you can download my public key [here](static/JorenVanHecke_public.asc).
 
 ## [MusicMaster](https://github.com/heckej/Music-master)
 > `>> Music Master, play me some music.`
