@@ -1,7 +1,7 @@
 <script src="https://kit.fontawesome.com/9876e57033.js" crossorigin="anonymous"></script>
 # My portfolio
 Hello! My name is Joren Van Hecke and I am a computer engineering student. Here I present some of the projects I've worked on.
-If you're interested in my resume, you can find it [here](Van_Hecke_Joren_resume_20200521.pdf).
+If you're interested in my resume, you can find it [here](Van_Hecke_Joren_resume_20200214.pdf).
 
 ## [Cluster](https://heckej.github.io/P-O-Entrepreneurship-Team-A-ClusterConnector/)
 <img src="cluster.png" height="100px" style="border-radius: 50%;" />
