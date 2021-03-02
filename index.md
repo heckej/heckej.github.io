@@ -46,7 +46,7 @@ Raspberry Pi.
 <video controls="true" muted poster="po2_linefollower.jpg" height="240" width="320">
   <source src="po2_linefollower.mp4" type="video/mp4" />
 </video>
-## In Short
+### In Short
 In my first of year as an undergraduate we had a team project in which we had
 to build a self driving, line following car. We used a Raspberry Pi, an infrared
 array sensor to detect straight and stop lines, an RGB sensor to try reading traffic lights and
