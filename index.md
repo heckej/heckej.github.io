@@ -1,52 +1,70 @@
 <script src="https://kit.fontawesome.com/9876e57033.js" crossorigin="anonymous"></script>
+
 # My portfolio
+
 Hello! My name is Joren Van Hecke and I am a computer engineering student. Here I present some of the projects I've worked on.
-If you're interested in my resume, you can find it [here](Van_Hecke_Joren_resume_20210214.pdf).
-Anyone who wants to send me an encrypted email using GPG/PGP: you can download my public key [here](static/JorenVanHecke_public.asc).
+Feel free to check out [my resume](Van_Hecke_Joren_resume_20210611.pdf) or send me a [signed and encrypted email using PGP](static/JorenVanHecke_public.asc).
 
 ## [MusicMaster](https://github.com/heckej/Music-master)
+
 > `>> Music Master, play me some music.`
 
 > `<< The next song is Let It Be by The Beatles.`
 
 ### In short
+
 A chatbot DJ that serves your personal music on command, which I made as a personal summer project. It can give additional information about the song that is playing. Speech recognition and TTS in Python (both in English and Dutch), chatbot built using Microsoft Bot Framework in .NET Core, LUIS.
+
 ### Link
+
 - <i class="fab fa-github"></i> [GitHub repository](https://github.com/heckej/Music-master)
 
 ## [Cluster](https://heckej.github.io/P-O-Entrepreneurship-Team-A-ClusterConnector/)
+
 <img src="cluster.png" height="100px" style="border-radius: 50%;" />
+
 ### In short
+
 A product to extend the knowledge of any existing company chatbot by adding crowdsourcing capabilities using NLP tools. Cluster consists of a server, an NLP module, a moderator module and API libraries for communication between NLP, chatbot and server. I mainly worked on those libraries, `cluster-connector` for the NLP in Python and `ClusterClient` for a chatbot written in .NET (Core). Both make use of websockets and some asynchronous programming, which was entirely new to me. I also contributed to the server and the chatbot that was built as a proof of concept. This team project was the subject of my bachelor's thesis and was commissioned by the company Realdolmen.
+
 ### Link
+
 - <i class="fab fa-black-tie"></i> [Landing page](https://heckej.github.io/P-O-Entrepreneurship-Team-A-ClusterConnector/)
 - <i class="fab fa-github"></i> [GitHub repository](https://github.com/heckej/P-O-Entrepreneurship-Team-A-code)
 
 * * *
 
 ## [IVC Cage monitoring](https://github.com/heckej/IVC-Monitoring)
+
 <p float="left">
   <a href="ivc_app/webapp_1.png"><img src="ivc_app/webapp_1.png" width="200" /></a>
   <a href="ivc_app/webapp_2.png"><img src="ivc_app/webapp_2.png" width="200" /></a>
   <a href="ivc_app/webapp_3.png"><img src="ivc_app/webapp_3.png" width="200" /></a>
   <a href="ivc_app/webapp_4.png"><img src="ivc_app/webapp_4.png" width="200" /></a>
 </p>
+
 ### In short
+
 For a team project in my second year as an undergraduate, we had to find a solution
 to monitor a racks with IVC cages. Therefore, we designed a frame provided with
 sensors to measure the food and water level. The sensors were connected to an
 Arduino Nano which in turn could communicate with a Flask web app running on a
 Raspberry Pi.
+
 ### Link
+
 - <i class="fab fa-github"></i> [GitHub code repository](https://github.com/heckej/IVC-Monitoring)
 
 * * *
 
 ## Line following car
+
 <video controls="true" muted poster="po2_linefollower.jpg" height="240" width="320">
   <source src="po2_linefollower.mp4" type="video/mp4" />
 </video>
+
 ### In Short
+
 In my first of year as an undergraduate we had a team project in which we had
 to build a self driving, line following car. We used a Raspberry Pi, an infrared
 array sensor to detect straight and stop lines, an RGB sensor to try reading traffic lights and
