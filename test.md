@@ -1,5 +1,7 @@
 ---
 title: Alternative test page
+permalink: /test/
+description: An alternative description
 ---
 
 # Test Title 1
