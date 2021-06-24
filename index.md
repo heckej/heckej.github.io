@@ -3,7 +3,7 @@
 # My portfolio
 
 Hello! My name is Joren Van Hecke and I am a computer engineering student. Here I present some of the projects I've worked on.
-Feel free to check out [my resume](Van_Hecke_Joren_resume_20210611.pdf) or send me a [signed and encrypted email using PGP](static/JorenVanHecke_public.asc).
+Feel free to check out [my resume](Van_Hecke_Joren_resume.pdf).
 
 ## [MusicMaster](https://github.com/heckej/Music-master)
 
